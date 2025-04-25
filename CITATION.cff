@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Advanced Data Skills Activities for Biomedical Engineers
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Laura
+    family-names: Christian
+    affiliation: >-
+      Wallace H. Coulter Department of Biomedical
+      Engineering, Georgia Institute of Technology and Emory
+      University
+    orcid: 'https://orcid.org/0000-0003-3141-1710'
+    email: laura.christian@gatech.edu
+  - given-names: Todd
+    family-names: Fernandez
+    email: todd.fernandez@bme.gatech.edu
+    affiliation: >-
+      Wallace H. Coulter Department of Biomedical
+      Engineering, Georgia Institute of Technology and Emory
+      University
+    orcid: 'https://orcid.org/0000-0002-1387-2575'
+  - given-names: Ophelia
+    family-names: Winslett
+    affiliation: >-
+      Wallace H. Coulter Department of Biomedical
+      Engineering, Georgia Institute of Technology and Emory
+      University
+    email: Opheliawin00@gmail.com
+url: 'https://bme.gatech.edu/'
+license: GPL-3.0-or-later
+date-released: '2025-06-22'
