@@ -8,7 +8,10 @@ The materials are distributed under a [GNU GPLv3]([url](https://choosealicense.c
 * Modifications are permissible and encouraged, but must be released under the same license
 * We request that modifications and improvements be shared back (by pull request or email) to continue their development
 * We request that any use or publications acknowledge and disclose the original source.
-  _We request that you use the citation below (which is available as a CITATION.cff via hyperlink):
+ We request that you use the citation below ([which is available as a CITATION.cff]([url](https://github.com/owinslett3/GT-BME-Data-skills-in-Undergrad-Curriculum/blob/main/CITATION.cff))):
+
+[1]L. Christian, T. Fernandez, and O. Winslett, “Advanced Data Skills Activities for Biomedical Engineers,”. Wallace H. Coulter Department of Biomedical Engineering. Georgia Institute of Technology and Emory University. https://github.com/owinslett3/GT-BME-Data-skills-in-Undergrad-Curriculum
+‌
   
 # List of course activities with short descriptions of course and activity
 Note: Newly developed activities are typically posted after at least two rounds of classroom testing. The developers treat each repository as reflecting the best-current state of the activity when first published. We do not post versions from the testing and development process.
