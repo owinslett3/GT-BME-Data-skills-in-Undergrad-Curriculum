@@ -20,6 +20,8 @@ Note: Newly developed activities are typically posted after at least two rounds 
 An introduction to human physiology emphasizing biomedical engineering approaches to the understanding of basic organ function, disease states, and medical intervention.
 ###  Activity 
 Students use data from the [2017 George B. Moody PhysioNet challenge]([url](https://physionet.org/content/challenge-2017/1.0.0/)) to create and evaluate a machine learning model to diagnosis Atrial Fibrillation. The activity has two versions, one that requires student access to advanced GPU computing hardware and one that doesn't. In the activity, students manually diagnose randomly drawn ECG waveforms for atrial fibrilation, train neural networks on a large ECG data set (some versions), run inference using their model, evaluate the efficacy of the model, train and/or run inference on an improved model that uses signals processing tools for feature extraction. The activity requires students to think critically, reflect, and run code. While the activity does not require students to write code, it woudl be simple to modify it to create such opportunities. The activity is written for the Matlab coding language. 
+### Acknowledgement
+The data used in this activity is the property of The PhysioNet/Computing in Cardiology Challenge 2017. All files needed are provided in this directory but more information can be found here: [2017 George B. Moody PhysioNet challenge]([url](https://physionet.org/content/challenge-2017/1.0.0/)).
 
 ## Cell & Molecular Physiology (in testing)
 ### Course 
