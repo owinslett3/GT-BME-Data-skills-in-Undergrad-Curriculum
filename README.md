@@ -1,8 +1,6 @@
 # GT-BME-Data-skills-in-Undergrad-Curriculum
 # Introduction
 This repository contains files from course activities to integrate (i.e., teach) advanced data skills using Artifical Intelligence (AI) and Machine Learning (ML) tools to undergraduate biomedical engineering students. These activities were developed in the Georgia Institute of Technology Wallace H. Coulter Department of Biomedical Engineering. 
-
-# Opening GitHub Repositories Directly in MATLAB Online
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=owinslett3/GT-BME-Data-skills-in-Undergrad-Curriculum)
 
 ## Rules on use
