@@ -24,7 +24,7 @@ Students use data from the [2017 George B. Moody PhysioNet challenge]([url](http
 ### Acknowledgement
 The data used in this activity is the property of The PhysioNet/Computing in Cardiology Challenge 2017. All files needed are provided in this directory but more information can be found here: [2017 George B. Moody PhysioNet challenge]([url](https://physionet.org/content/challenge-2017/1.0.0/)).
 
-## Cell & Molecular Physiology (in testing)
+## Cell & Molecular Physiology (completed)
 ### Course 
 In depth cell and molecular physiology focused on cellular responses to stimuli, including cell organization/ reorganization, membrane transport/kinetics, cell signaling/ molecular biology, mechanobiology and energy requirements.
 ### Activity
