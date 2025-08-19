@@ -24,12 +24,12 @@ Students use data from the [2017 George B. Moody PhysioNet challenge]([url](http
 ### Acknowledgement
 The data used in this activity is the property of The PhysioNet/Computing in Cardiology Challenge 2017. All files needed are provided in this directory but more information can be found here: [2017 George B. Moody PhysioNet challenge]([url](https://physionet.org/content/challenge-2017/1.0.0/)).
 
-## [Cell & Molecular Physiology] (https://github.com/owinslett3/GT-BME-Data-skills-in-Undergrad-Curriculum/tree/b86bb62fdd09e61de9a07a44a842537f0cdabec7/Activities/Cell%20and%20Molecular%20Biology) (released)
+## [Cell & Molecular Physiology](https://github.com/owinslett3/GT-BME-Data-skills-in-Undergrad-Curriculum/tree/b86bb62fdd09e61de9a07a44a842537f0cdabec7/Activities/Cell%20and%20Molecular%20Biology) (released)
 ### Course 
 In depth cell and molecular physiology focused on cellular responses to stimuli, including cell organization/ reorganization, membrane transport/kinetics, cell signaling/ molecular biology, mechanobiology and energy requirements.
 ### Activity
 
-## [Biotransport] (https://github.com/owinslett3/GT-BME-Data-skills-in-Undergrad-Curriculum/tree/b86bb62fdd09e61de9a07a44a842537f0cdabec7/Activities/Biotransport) (in testing)
+## [Biotransport](https://github.com/owinslett3/GT-BME-Data-skills-in-Undergrad-Curriculum/tree/b86bb62fdd09e61de9a07a44a842537f0cdabec7/Activities/Biotransport) (in testing)
 ### Course
 Fundamental principles of fluid, heat, and mass transfer with particular emphasis on physiological and biomedical systems.
 ### Activity
