@@ -34,16 +34,15 @@ In depth cell and molecular physiology focused on cellular responses to stimuli,
 Fundamental principles of fluid, heat, and mass transfer with particular emphasis on physiological and biomedical systems.
 ### Activity
 
-## [Biomechanics] (https://github.com/owinslett3/GT-BME-Data-skills-in-Undergrad-Curriculum/tree/340bdafea972db47cb185a82447002d7b36ea15c/Activities/Problems%20in%20Biomedical%20Engineering) (released)
-### Course 
-An introduction to the basic concepts and methods in biomechanics, including statics, deformable bodies, and rigid body dynamics. 
-### Activity
-
-## Problems in BME (development queued)
+## [Problems in BME] (https://github.com/owinslett3/GT-BME-Data-skills-in-Undergrad-Curriculum/tree/340bdafea972db47cb185a82447002d7b36ea15c/Activities/Problems%20in%20Biomedical%20Engineering) (released)
 ### Course 
 Biomedical engineering problems from industrial and clinical applications are addressed and solved in small groups using problem-based learning methods.
 ### Activity
 
+## [Biomechanics] (development queued)
+### Course 
+An introduction to the basic concepts and methods in biomechanics, including statics, deformable bodies, and rigid body dynamics. 
+### Activity
 
 ## Biomedical Engineering Statistics (development queued) 
 ### Course 
