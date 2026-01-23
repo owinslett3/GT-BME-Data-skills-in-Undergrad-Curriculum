@@ -37,6 +37,8 @@ Fundamental principles of fluid, heat, and mass transfer with particular emphasi
 ## [Problems in BME](https://github.com/owinslett3/GT-BME-Data-skills-in-Undergrad-Curriculum/tree/340bdafea972db47cb185a82447002d7b36ea15c/Activities/Problems%20in%20Biomedical%20Engineering) (released)
 ### Course 
 Biomedical engineering problems from industrial and clinical applications are addressed and solved in small groups using problem-based learning methods.
+Students analyze the impact of generative AI on professional output by reading a 2025 Harvard Business Review article, "AI-Generated ‘Workslop’ Is Destroying Productivity." There are two parts of the assignment, including critical reading and personal reflections. Students summarize the main arguments on how low-quality AI output affects productivity, and relate these concepts to their own experiences. Next, students reflect on their own psychological approach and intentionality when utilizing AI tools. The activity requires students to think critically and reflect on workplace ethics and efficiency. 
+
 ### Activity
 
 ## Biomechanics (development queued)
